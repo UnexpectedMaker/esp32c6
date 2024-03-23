@@ -2,7 +2,7 @@
 
 Assorted files for my ESP32-C6 development boards
 
-You can find out more about my ESP32-C6 boards at https://unexpectedmaker.com
+You can find out more about my ESP32-C6 boards at https://unexpectedmaker.com/esp32-c6
 
 # Contents
 In this repo you'll find the following items:
@@ -14,13 +14,10 @@ PDF Schematics
 Hires pinout reference cards
 
 ## 3D Models
-Soon
+3D models for both TinyC6 boards - onboard antenna and u.FL
 
-## KiCAD 7 Symbols
-Soon
-
-## KiCAD 7 Footprints
-Soon
+## KiCAD
+KiCAD 7 Symbol and Footprint for TinyC6
 
 
 # Support Unexpected Maker
@@ -31,9 +28,6 @@ Please consider supporting me by buying some of my products from:
 
 https://unexpectedmaker.com/shop
 
-Or by buying one of my products on tindie:
-
-https://www.tindie.com/stores/seonr/
 
 Or by becoming a Patron:
 
@@ -48,5 +42,3 @@ http://twitter.com/unexpectedmaker
 https://discord.gg/xAHpApP
 
 https://www.facebook.com/unexpectedmaker/
-
-https://www.instagram.com/unexpectedmaker/
